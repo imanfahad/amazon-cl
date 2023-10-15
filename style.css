@@ -1,0 +1,49 @@
+.pq{
+    margin: 10px !important;
+    padding: 5px 10px 5px 10px;
+    background-color:beige;
+}
+.card-image{
+    height: 200px;
+    padding:20px;
+}
+.gp{
+    margin: 10px !important;
+    padding: 5px 10px 5px 10px;
+    background-color:beige;
+}
+.up1{
+    padding: 5px 10px 5px 10px;
+    background-color:beige;
+}
+.card{
+    margin-bottom: 10px;
+}
+.star{
+    color: orange;
+}
+.ml{
+    margin-left: -35px;
+}
+.carousel-control-prev-icon{
+    background-color: burlywood;
+}
+.carousel-control-next-icon{
+    background: aquamarine;
+}
+.float-right{
+    float: right;
+}
+.float-left{
+    float: left;
+}
+.border123{
+    border-right: 2px solid grey;
+}
+.border1{
+    border: 2px solid grey;
+}
+.nmo{
+    border-radius: 10px;
+    background-color: aqua;
+}
